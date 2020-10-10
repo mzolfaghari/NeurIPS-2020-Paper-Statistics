@@ -1,6 +1,10 @@
 # NeurIPS 2020 Paper Statistics
 NeurIPS 2020 Paper Statistics and Visualization of acceptance rate, keywords and authors.
 
+Descriptions
+This repo contains the [data crawler](data/crawler.py) function to collect papers/authors list from neurips webpage and also two jupyter notebooks to visualize the paper statistics. 
+
+
 <p align="center">
   <img width="600" src="misc/wordcloud1.png">
 </p>
