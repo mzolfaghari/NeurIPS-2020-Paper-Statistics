@@ -23,7 +23,13 @@ The acceptance rate decreased from 21% to 20%.
    - 'Google', 'MIt', 'Stanford', 'Microsoft', 'UC Berkeley', 'CMU', 'DeepMind'
 
 <p align="center">
-  <img width="1000" src="misc/top_inst.png">
+  <img width="1000" src="misc/top_inst2.png">
+</p>
+
+## Top Authors Based on the Number of Accepted Papers in NeurIPS 2020
+
+<p align="center">
+  <img width="1000" src="misc/top_authors.png">
 </p>
 
 ## NeurIPS 2020 Paper Keywords statistics
