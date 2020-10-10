@@ -2,7 +2,7 @@
 NeurIPS 2020 Paper Statistics and Visualization of acceptance rate, keywords and authors.
 
 <p align="center">
-  <img width="600" src="misc/wordcloud.png">
+  <img width="600" src="misc/wordcloud1.png">
 </p>
 
 ## NeurIPS 2020 Acceptance rate (2015~2020)
@@ -21,7 +21,7 @@ NeurIPS 2020 Paper Statistics and Visualization of acceptance rate, keywords and
    - 'graph', 'optimization', 'reinforcement', 'adversarial', 'gradient', 'efficient', 'robust', 'representation', 'training', 
 
 <p align="center">
-  <img width="1000" src="misc/keywords.png">
+  <img width="1000" src="misc/keywords1.png">
 </p>
 
 ## Analysis and Visualization Code (Jupyter Notebook)
