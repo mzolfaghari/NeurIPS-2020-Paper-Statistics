@@ -18,6 +18,14 @@ The acceptance rate decreased from 21% to 20%.
 </p>
 
 
+## Top Institutes Based on Accepted Papers in NeurIPS 2020
+-  Top institutes 
+   - 'Google', 'MIt', 'Stanford', 'Microsoft', 'UC Berkeley', 'CMU', 'DeepMind'
+
+<p align="center">
+  <img width="1000" src="misc/top_inst.png">
+</p>
+
 ## NeurIPS 2020 Paper Keywords statistics
 - [Accepted Paper list](https://nips.cc/Conferences/2020/AcceptedPapersInitial)
 
