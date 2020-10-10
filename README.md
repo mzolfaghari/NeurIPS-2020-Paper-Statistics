@@ -1,4 +1,4 @@
-# NeurIPS-2020-Paper-Statistics
+# NeurIPS 2020 Paper Statistics
 NeurIPS 2020 Paper Statistics and Visualization of acceptance rate, keywords and authors.
 
 <p align="center">
