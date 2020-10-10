@@ -236,7 +236,6 @@ def main(url):
     return paper_set
 
 url = "https://nips.cc/Conferences/2020/AcceptedPapersInitial"
-url = "https://papers.nips.cc/book/advances-in-neural-information-processing-systems-32-2019"
 paper_set = main(url)
 print(len(paper_set))
 
