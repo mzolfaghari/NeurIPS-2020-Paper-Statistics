@@ -11,8 +11,8 @@ This repo contains the [data crawler](data/crawler.py) function to collect paper
 
 ## NeurIPS 2020 Acceptance rate (2015~2020)
 
-- The acceptance rate of NeurIPS 2020 is  about 20%.
-
+- The total number of papers is increasing every year and this year has increased significantly!
+The acceptance rate decreased from 21% to 20%.
 <p align="center">
   <img width="500" src="misc/acceptance_rate.png">
 </p>
